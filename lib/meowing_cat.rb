@@ -3,7 +3,6 @@ class Cat
 end
 
 def meow(name)
-  @name
   puts "meow!"
 end
 ## code your solution here.
